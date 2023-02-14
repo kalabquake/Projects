@@ -3,7 +3,7 @@ import requests
 """
 # Set the API endpoint and the API key
 endpoint = "https://api.openai.com/v1/text-davinci/completions"
-api_key = "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"
+api_key = "key"
 
 # Set the input text and other request parameters
 prompt = "The quick brown fox jumps over the lazy dog."
