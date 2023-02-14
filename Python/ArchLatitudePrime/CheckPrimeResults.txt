@@ -1,0 +1,4 @@
+64151972 prime numbers in list
+Final prime in list: 1277411999
+Checked the whole list!!
+execution time: 118208.47649598122
